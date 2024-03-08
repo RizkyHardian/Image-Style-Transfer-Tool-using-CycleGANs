@@ -1,4 +1,4 @@
-# [Image-Style-Transfer-Tool-using-CycleGANs](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0KSEEN+v1?authuser=0)
+# [Image Style Transfer Tool using CycleGANs](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0KSEEN+v1?authuser=0)
 
 ![Logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-GPXX0KSEEN/images/starry_night.png)
 
@@ -6,7 +6,7 @@
 You can find various implementations of CycleGANs in this [repository](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). For this project, we will borrow a simpler implementation of CycleGANs for image style transfer. Thanks to Amy Jang, who created an easy-to-understand tutorial that goes over the basics of loading data from TFRecords, using TPUs, and building a CycleGAN for the I'm Something of a Painter Myself Kaggle competition. You can find the original tutorial [here](https://www.kaggle.com/code/amyjang/monet-cyclegan-tutorial/notebook#Create-submission-file).
 
 
-Course completion of Image-Style-Transfer-Tool-using-CycleGANs from CognitiveClass.ai
+Course completion of Image Style Transfer Tool using CycleGANs from CognitiveClass.ai
 
 
 **Name** : Rizky Hardian Nor
